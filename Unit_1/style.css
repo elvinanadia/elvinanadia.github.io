@@ -1,0 +1,23 @@
+body {
+	background-color: #FFE4E1;
+}
+h1 {
+	font-family:"Didot", serif;
+	font-style: bold;
+    color: coral;
+    text-align: center;
+    font-size: 7em;
+    font-weight: lighter;
+    margin-bottom: -8px;
+}
+p{
+	 font-family:"Gill Sans", sans-serif , monospace;
+	 text-align: center;
+	 color: coral;
+	 font-size: 1.5em;
+}
+img{
+	width: 60px;
+	height: 60px;
+	margin-left: 635px;
+}
