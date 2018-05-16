@@ -1,0 +1,50 @@
+body {
+	background-color: #FFFFFF;
+}
+h1 {
+
+	font-family:"Didot", serif;
+	font-style: normal;
+    color: #FFD700;
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 30px;
+    font-weight: normal;
+    
+}
+p {
+	 font-family:"Century Gothic", sans-serif;
+	 text-align: center;
+	 text-transform: uppercase;
+	 color: #FFD700;
+	 font-size: 1.5em;
+	 font-weight: lighter;
+	 letter-spacing: 10px;
+	 margin-top: -40px;
+}
+img{
+	width: 1280px;
+	height: 600px;
+	
+}
+.mainimg {
+
+	margin-top: 50px;
+	margin-left: 170px;
+}
+
+.p2 {
+ 
+	font-family:"Century Gothic", sans-serif;
+	color: #778899;
+	text-align: center;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 24px;
+	letter-spacing: 3px;
+	margin:400px;
+	margin-top:50px;
+	text-transform: capitalize;
+
+
+}
