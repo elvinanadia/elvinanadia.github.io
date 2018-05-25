@@ -1,0 +1,185 @@
+   body {
+	background-color: #FFFFFF;
+
+}
+
+#wrapper{
+
+
+margin: 0 auto;
+
+}
+h1 {
+
+	font-family:"Didot", serif;
+	font-style: normal;
+    color: #DAA520;
+    text-align: center;
+    font-size: 5em;
+    letter-spacing: 30px;
+    font-weight: normal;
+    
+}
+p {
+	 font-family:"Century Gothic", sans-serif;
+	 text-align: center;
+	 text-transform: uppercase;
+	 color: #DAA520;
+	 font-size: 2em;
+	 font-weight: lighter;
+	 letter-spacing: 10px;
+	 margin-top: -40px;
+}
+
+.searchbar{
+	font-family: "Gill Sans" , sans-serif;
+	letter-spacing: 5px;
+	display:block;
+	margin-top:-100px;
+	margin-bottom:50px;
+	padding:30px;
+}
+
+#first_nav{
+
+	font-family: "Century Gothic" , sans-serif;
+	color: #778899;
+	text-decoration: none;
+	text-align: center;
+	font-size: 1.5em;
+
+
+}
+img{
+	width: 70%;
+	height: 70%;
+	
+}
+.mainimg {
+
+	display: block;
+	margin: 0 auto;
+}
+
+h2{
+
+	font-family:"Century Gothic", sans-serif;
+	color: #778899;
+	text-align: center;
+	font-weight: normal;
+	font-size: 1.2em;
+	line-height: 30px;
+	letter-spacing: 3px;
+	margin:400px;
+	margin-top:50px;
+	text-transform: normal
+}
+
+#two_column {
+    background-color: #f9eff2;
+}
+
+#left {
+
+    float: left;
+    width: 45%;
+}
+
+.img_article {
+
+	margin: 0 auto;
+	width: 110%;
+}
+
+#right {
+	width:45%;
+	float: right;
+	padding: 90px; 
+    
+}
+
+h4 {
+	font-family:"Century Gothic", sans-serif;
+	color: #778899;
+	text-align: center;
+	font-weight: bold;
+	letter-spacing: 3px;
+	font-size: 2.5em;
+	line-height: 70px;
+}
+.article_1{
+	font-family:"Century Gothic", sans-serif;
+	color: #778899;
+	text-align: center;
+	font-weight: normal;
+	letter-spacing: 3px;
+	font-size: 1.7em;
+	line-height: 50px:;
+}
+
+.button_1{
+    font-family: "Gill Sans" , sans-serif;
+	letter-spacing: 5px;
+	display:block;
+	margin-top:-100px;
+	margin-bottom:50px;
+	padding:30px;
+
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#three {
+	
+    float: left;
+	display: inline;
+
+
+}
+
+.fruity {
+
+	width: 30%;
+	padding: 30px;
+
+}
+
+h3 {
+	font-family:"Century Gothic", sans-serif;
+	 text-align: center;
+	 text-transform: capitalize;
+	 color: #DAA520;
+	 font-size: 2.7em;
+	 font-weight: bold;
+	 letter-spacing: 3px;
+	 
+
+
+
+
+
+.contact {
+
+font-family:"Century Gothic", sans-serif;
+color: #778899;
+margin: 0 auto;
+font-weight: normal;
+font-size: 1.2em;
+
+}
+
+h5 {
+	font-family: "Century Gothic" , sans-serif;
+	color: #DAA520;
+	text-align: center;
+    font-size: 1em;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
